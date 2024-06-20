@@ -1,0 +1,1 @@
+[{"code":"-42","https":"http://127.0.0.1","httpsPort":"8880","remark":"自己搭建服务端","weight":"1","version":"2.2.0","type":"真"}]
